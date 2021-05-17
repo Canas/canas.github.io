@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Proyecto Jupyter - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"2dc41352-d58b-4b31-bad1-220c8125e05a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Proyecto_Jupyter","wgTitle":"Proyecto Jupyter","wgCurRevisionId":134913158,"wgRevisionId":134913158,"wgArticleId":9238737,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos sin coordenadas","Organizaciones de software libre","Organizaciones fundadas en 2015"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Proyecto_Jupyter",
+"wgRelevantArticleId":9238737,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q55630549"};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"es"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.4"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+<meta property="og:title" content="Proyecto Jupyter - Wikipedia, la enciclopedia libre"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Proyecto_Jupyter"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Proyecto_Jupyter"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Proyecto_Jupyter rootpage-Proyecto_Jupyter skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Proyecto Jupyter</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#searchInput">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera edificio" style="text-align:center;background-color:#DDD;color:black;">Proyecto Jupyter</th></tr><tr><td colspan="3" style="text-align:center;font-size:95%;;">
+<a href="/wiki/Archivo:Jupyter_logo.svg" class="image"><img alt="Jupyter logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/245px-Jupyter_logo.svg.png" decoding="async" width="245" height="284" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/368px-Jupyter_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/490px-Jupyter_logo.svg.png 2x" data-file-width="44" data-file-height="51" /></a></td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Tipo</th><td colspan="2" style="font-size:95%;;">
+<a href="/wiki/Organizaci%C3%B3n_sin_%C3%A1nimo_de_lucro" title="Organización sin ánimo de lucro">organización sin ánimo de lucro</a></td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Objetivos</th><td colspan="2" style="font-size:95%;;">
+Apoyar la ciencia de datos interactiva y la informática científica en todos los lenguajes de programación.<sup id="cite_ref-About_Us_1-0" class="reference separada"><a href="#cite_note-About_Us-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Fundación</th><td colspan="2" style="font-size:95%;;">
+<a href="/wiki/2014" title="2014">2014</a></td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Fundador</th><td colspan="2" style="font-size:95%;;">
+<a href="/wiki/Fernando_P%C3%A9rez_(programador)" title="Fernando Pérez (programador)">Fernando Pérez</a></td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Productos</th><td colspan="2" style="font-size:95%;;">
+Jupyter Notebook<br />JupyterLab</td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Miembro de</th><td colspan="2" style="font-size:95%;;">
+Joint Roadmap for Open Science Tools</td></tr><tr><th scope="row" style="text-align:left;font-size:95%;;">Sitio web</th><td colspan="2" style="font-size:95%;;">
+<a rel="nofollow" class="external text" href="https://jupyter.org/">jupyter.org</a> y <a rel="nofollow" class="external text" href="https://github.com/jupyter/">github.com/jupyter</a></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q55630549" class="extiw" title="d:Q55630549">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p>El <b>Proyecto Jupyter</b> es una <a href="/wiki/Organizaci%C3%B3n_sin_%C3%A1nimo_de_lucro" title="Organización sin ánimo de lucro">organización sin ánimo de lucro</a> creada para "desarrollar <a href="/wiki/Software_de_c%C3%B3digo_abierto" title="Software de código abierto">software de código abierto</a>, estándares abiertos y servicios para <a href="/wiki/Computaci%C3%B3n_interactiva" title="Computación interactiva">computación interactiva</a> en docenas de lenguajes de programación". Creado a partir de <a href="/wiki/IPython" title="IPython">IPython</a> en 2014 por <a href="/wiki/Fernando_P%C3%A9rez_(programador)" title="Fernando Pérez (programador)">Fernando Pérez</a>, el proyecto Jupyter soporta entornos de ejecución en varias docenas de lenguajes de programación. El nombre del proyecto Jupyter es una referencia a los tres lenguajes de programación principales soportados por Jupyter, que son <a href="/wiki/Julia_(lenguaje_de_programaci%C3%B3n)" title="Julia (lenguaje de programación)">Julia</a>, <a href="/wiki/Python" title="Python">Python</a> y <a href="/wiki/R_(lenguaje_de_programaci%C3%B3n)" title="R (lenguaje de programación)">R</a>, y también un homenaje a los cuadernos de <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo</a> que registran el descubrimiento de los <a href="/wiki/Sat%C3%A9lites_de_J%C3%BApiter" title="Satélites de Júpiter">satélites de Júpiter</a>. El proyecto Jupyter ha desarrollado y respaldado los productos de computación interactiva Jupyter Notebook, JupyterHub y JupyterLab, la versión de próxima generación de Jupyter Notebook.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historia"><span class="tocnumber">1</span> <span class="toctext">Historia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Filosofía"><span class="tocnumber">2</span> <span class="toctext">Filosofía</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Productos"><span class="tocnumber">3</span> <span class="toctext">Productos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Jupyter_Notebook"><span class="tocnumber">3.1</span> <span class="toctext">Jupyter Notebook</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Jupyter_kernels"><span class="tocnumber">3.2</span> <span class="toctext">Jupyter kernels</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#JupyterHub"><span class="tocnumber">3.3</span> <span class="toctext">JupyterHub</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#JupyterLab"><span class="tocnumber">3.4</span> <span class="toctext">JupyterLab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Uso_en_la_industria"><span class="tocnumber">4</span> <span class="toctext">Uso en la industria</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Cobertura_mediática"><span class="tocnumber">5</span> <span class="toctext">Cobertura mediática</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Premios"><span class="tocnumber">6</span> <span class="toctext">Premios</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Véase_también"><span class="tocnumber">7</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Referencias"><span class="tocnumber">8</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Enlaces_externos"><span class="tocnumber">9</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=1" title="Editar sección: Historia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En 2014, <a href="/wiki/Fernando_P%C3%A9rez_(programador)" title="Fernando Pérez (programador)">Fernando Pérez</a> anunció un proyecto derivado de <a href="/wiki/IPython" title="IPython">IPython</a> llamado Proyecto Jupyter.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; IPython continuó existiendo como un shell de Python y un <a href="/wiki/Kernel" class="mw-disambig" title="Kernel">kernel</a> para Jupyter, mientras que <a href="/wiki/Interfaz_de_notebook" title="Interfaz de notebook">Notebook</a> y otros <a href="/w/index.php?title=Lenguajes_agn%C3%B3sticos&amp;action=edit&amp;redlink=1" class="new" title="Lenguajes agnósticos (aún no redactado)">lenguajes agnósticos</a> de IPython se movieron bajo el nombre de Jupyter.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; Jupyter es un lenguaje agnóstico y soporta entornos de ejecución  (también conocidos como núcleos) en varias docenas de lenguajes, entre los que se encuentran <a href="/wiki/Julia_(lenguaje_de_programaci%C3%B3n)" title="Julia (lenguaje de programación)">Julia</a>, <a href="/wiki/R_(lenguaje_de_programaci%C3%B3n)" title="R (lenguaje de programación)">R</a>, <a href="/wiki/Haskell" title="Haskell">Haskell</a>, <a href="/wiki/Ruby" title="Ruby">Ruby</a>, y por supuesto <a href="/wiki/Python" title="Python">Python</a> (a través del kernel de IPython).<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>En 2015, <a href="/wiki/GitHub" title="GitHub">GitHub</a> y el proyecto Jupyter anunciaron el formato de los notebooks de Jupyter (archivos .ipynb) en la plataforma GitHub.<sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span id="Filosof.C3.ADa"></span><span class="mw-headline" id="Filosofía">Filosofía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=2" title="Editar sección: Filosofía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La filosofía operativa del Proyecto Jupyter es apoyar la ciencia de datos interactiva y la computación científica en todos los lenguajes de programación mediante el desarrollo de <a href="/wiki/Software_de_c%C3%B3digo_abierto" title="Software de código abierto">software de código abierto</a>. Según el sitio web del Proyecto Jupyter, "Jupyter siempre será un software 100% de código abierto, de uso gratuito para todos y lanzado bajo los términos liberales de la licencia BSD modificada".
+</p>
+<h2><span class="mw-headline" id="Productos">Productos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=3" title="Editar sección: Productos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Jupyter_Notebook">Jupyter Notebook</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=4" title="Editar sección: Jupyter Notebook">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jupyter <a href="/wiki/Interfaz_de_notebook" title="Interfaz de notebook"> Notebook</a> (anteriormente IPython Notebooks) es un entorno informático <a href="/wiki/Rich_Internet_application" title="Rich Internet application"> interactivo basado en la web</a> para crear documentos de Jupyter notebook. El término "notebook" puede hacer referencia coloquialmente a muchas entidades diferentes, principalmente la aplicación web Jupyter, el servidor web Jupyter Python o el formato de documento Jupyter según el contexto. Un documento de Jupyter Notebook es un documento <a href="/wiki/JSON" title="JSON">JSON</a>, que sigue un esquema versionado y que contiene una lista ordenada de celdas de entrada/salida que pueden contener código, texto (usando <a href="/wiki/Markdown" title="Markdown">Markdown</a>), matemáticas, gráficos y texto enriquecidos, generalmente terminado con la extensión ".ipynb".
+</p><p>Un Jupyter Notebook se puede convertir a varios formatos de salida <a href="/wiki/Est%C3%A1ndar_abierto" title="Estándar abierto">estándar abierto</a> (<a href="/wiki/HTML" title="HTML">HTML</a>, diapositiva de presentación, <a href="/wiki/LaTeX" title="LaTeX">LaTeX</a>, <a href="/wiki/PDF" title="PDF">PDF</a>, <a href="/wiki/ReStructuredText" title="ReStructuredText">ReStructuredText</a> , <a href="/wiki/Markdown" title="Markdown">Markdown</a>, <a href="/wiki/Python" title="Python">Python</a>) a través de "descargar como" en la interfaz web, a través de la biblioteca <a rel="nofollow" class="external text" href="https://nbconvert.readthedocs.io">nbconvert</a> o el comando "jupyter nbconvert" en un shell.
+</p><p>Para simplificar la visualización de los documentos Jupyter Notebook en la web se proporciona la biblioteca nbconvert como un servicio a través de <a rel="nofollow" class="external text" href="https://nbviewer.org">NbViewer</a> que puede llevar una URL a cualquier Notebook disponible al público, convertirlo a HTML sobre la marcha y mostrarlo al usuario.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png/220px-Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png" decoding="async" width="220" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png/330px-Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png/440px-Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png 2x" data-file-width="1158" data-file-height="1064" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Paws_notebook_showing_how_to_load_wikidata_item_dictionary.png" class="internal" title="Aumentar"></a></div>Jupyter Notebook interface</div></div></div>
+<p>Jupyter Notebook proporciona una navegador basado en <a href="/wiki/REPL" title="REPL">REPL</a> construido sobre una serie de bibliotecas de <a href="/wiki/Software_de_c%C3%B3digo_abierto" title="Software de código abierto">software de código abierto</a> conocidas:
+</p>
+<ul><li><a href="/wiki/IPython" title="IPython">IPython</a></li>
+<li><a href="/wiki/ZeroMQ" title="ZeroMQ">ØMQ</a></li>
+<li><a href="/w/index.php?title=Tornado_(servidor_web)&amp;action=edit&amp;redlink=1" class="new" title="Tornado (servidor web) (aún no redactado)">Tornado (servidor web)</a></li>
+<li><a href="/wiki/JQuery" title="JQuery">JQuery</a></li>
+<li><a href="/wiki/Bootstrap_(framework)" title="Bootstrap (framework)">Bootstrap (framework)</a></li>
+<li><a href="/wiki/MathJax" title="MathJax">MathJax</a></li></ul>
+<p>Jupyter Notebook puede conectarse a muchos núcleos para permitir la programación en muchos idiomas. Por defecto, Jupyter Notebook se conecta con el núcleo IPython. A partir de la versión 2.3.<sup id="cite_ref-releasenote23_8-0" class="reference separada"><a href="#cite_note-releasenote23-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-releasenote20_9-0" class="reference separada"><a href="#cite_note-releasenote20-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203; (octubre del 2014), hay, actualmente, 49 núcleos compatibles con Jupyter para muchos lenguajes de programación, incluidos <a href="/wiki/Python" title="Python">Python</a>, <a href="/wiki/R_(lenguaje_de_programaci%C3%B3n)" title="R (lenguaje de programación)">R</a>, <a href="/wiki/Julia_(lenguaje_de_programaci%C3%B3n)" title="Julia (lenguaje de programación)">Julia</a> y <a href="/wiki/Haskell" title="Haskell">Haskell</a>.<sup id="cite_ref-10" class="reference separada"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>La interfaz de Notebook se añadió a IPython en la versión 0.12 <sup id="cite_ref-releasenote012_11-0" class="reference separada"><a href="#cite_note-releasenote012-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>&#8203; (diciembre de 2011), renombrado a Jupyter notebook en 2015 (IPython 4.0 - Jupyter 1.0). Jupyter Notebook es similar a la interfaz de notebook de otros programas como <a href="/wiki/Maple_(software)" title="Maple (software)"> Maple</a>, <a href="/wiki/Mathematica" title="Mathematica">Mathematica</a> y <a href="/wiki/SageMath" title="SageMath">SageMath</a>, un estilo de interfaz computacional que se originó con Mathematica en la década de 1980.<sup id="cite_ref-Somers2018_12-0" class="reference separada"><a href="#cite_note-Somers2018-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203; Según <a href="/wiki/The_Atlantic" title="The Atlantic">The Atlantic</a>, Jupyter superó la popularidad de la interfaz Notebook de Mathematica a principios de 2018.<sup id="cite_ref-Somers2018_12-1" class="reference separada"><a href="#cite_note-Somers2018-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Jupyter_kernels">Jupyter kernels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=5" title="Editar sección: Jupyter kernels">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Un kernel de Jupyter es un programa responsable de manejar varios tipos de solicitud (ejecución de código, finalización de código, inspección) y proporcionar una respuesta. Los kernel se comunican con los otros componentes de Jupyter usando ZeroMQ a través de la red y, por lo tanto, pueden estar en la misma máquina o en máquinas remotas. A diferencia de muchas otras interfaces tipo Notebook, en Jupyter, los kernel no son conscientes de que están adjuntos a un documento específico y pueden conectarse a muchos clientes a la vez. Por lo general, los kernel permiten la ejecución de un solo lenguaje de programación, pero hay un par de excepciones.
+</p><p>Por defecto, Jupyter viene con IPython como kernel predeterminado e implementación de referencia a través del contenedor ipykernel. Se encuentran <a rel="nofollow" class="external text" href="https://github.com/jupyter/jupyter/wiki/Jupyter-kernels">disponibles</a> kernel para muchos lenguajes de programación que tienen diferentes características y calidad.
+</p>
+<h3><span class="mw-headline" id="JupyterHub">JupyterHub</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=6" title="Editar sección: JupyterHub">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>JupyterHub<sup id="cite_ref-13" class="reference separada"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>&#8203; es un servidor multiusuario para Jupyter Notebooks. Está diseñado para admitir a muchos usuarios generando, administrando y representando muchos servidores Jupyter Notebook singulares. usuario de portátiles Jupyter en la nube.
+Es un servidor multiusuario para Jupyter Notebooks.  Ha sido diseñado para atender a muchos usuarios generando, administrando y representando muchos servidores Jupyter Notebook singulares.. Si bien JupyterHub requiere la administración de servidores, los servicios de terceros como Jupyo<sup id="cite_ref-:0_14-0" class="reference separada"><a href="#cite_note-:0-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>&#8203; proporcionan una alternativa a JupyterHub al alojar y administrar Jupyter notebooks multiusuario en la nube.
+</p>
+<h3><span class="mw-headline" id="JupyterLab">JupyterLab</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=7" title="Editar sección: JupyterLab">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>JupyterLab es la interfaz de usuario de próxima generación para Project Jupyter. Ofrece todos los componentes básicos del clásico Jupyter Notebook (notebook, terminal, editor de texto, explorador de archivos, texto enriquecido, etc.) en una interfaz de usuario flexible y potente. El primer lanzamiento estable se anunció el 20 de febrero de 2018. <sup id="cite_ref-15" class="reference separada"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span class="mw-headline" id="Uso_en_la_industria">Uso en la industria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=8" title="Editar sección: Uso en la industria">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>El Jupyter Notebook se ha convertido en una interfaz de usuario popular para la <a href="/wiki/Computaci%C3%B3n_en_la_nube" title="Computación en la nube">computación en la nube</a>, y los principales proveedores de la nube han adoptado el Jupyter Notebook o las herramientas derivadas como una interfaz front-end para los usuarios de la nube. Los ejemplos incluyen los <a href="/w/index.php?title=SageMaker&amp;action=edit&amp;redlink=1" class="new" title="SageMaker (aún no redactado)">SageMaker</a> notebook de <a href="/wiki/Amazon" title="Amazon">Amazon</a> y Azure Notebook de <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.<sup id="cite_ref-16" class="reference separada"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span id="Cobertura_medi.C3.A1tica"></span><span class="mw-headline" id="Cobertura_mediática">Cobertura mediática</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=9" title="Editar sección: Cobertura mediática">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>El 11 de febrero de 2016, la colaboración <a href="/wiki/LIGO" title="LIGO">LIGO</a> anunció la primera observación de ondas gravitacionales. La colaboración lanzó los datos científicos sin procesar junto con los Jupyter Notebook que contienen el código <a href="/wiki/Python" title="Python">Python</a> para procesar los datos y reproducir las figuras del documento del descubrimiento.<sup id="cite_ref-17" class="reference separada"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>El 5 de abril de 2018, <a href="/wiki/The_Atlantic" title="The Atlantic">The Atlantic</a> publicó un artículo titulado <i>The Scientific Paper Is Obsolete</i>, que analizaba el papel del Jupyter Notebook y el de <a href="/wiki/Mathematica" title="Mathematica">Mathematica</a> en el futuro de la publicación científica.<sup id="cite_ref-Somers2018_12-2" class="reference separada"><a href="#cite_note-Somers2018-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203; Este artículo generó respuestas de destacados científicos y académicos, incluido el economista <a href="/wiki/Paul_Romer" title="Paul Romer">Paul Romer</a>.<sup id="cite_ref-18" class="reference separada"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<h2><span class="mw-headline" id="Premios">Premios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=10" title="Editar sección: Premios">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>En 2012, <a href="/wiki/Fernando_P%C3%A9rez_(programador)" title="Fernando Pérez (programador)">Fernando Pérez</a> recibió el premio <a href="/wiki/FSF_Award_for_the_Advancement_of_Free_Software" title="FSF Award for the Advancement of Free Software">FSF Award for the Advancement of Free Software</a> por su trabajo en <a href="/wiki/IPython" title="IPython">IPython</a>, el precursor del Proyecto Jupyter.</li>
+<li>En 2013, el equipo de IPython recibió una donación de 1,15 millones de dólares de la <a href="/wiki/Fundaci%C3%B3n_Alfred_P._Sloan" title="Fundación Alfred P. Sloan">Fundación Alfred P. Sloan</a><sup id="cite_ref-19" class="reference separada"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-20" class="reference separada"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>&#8203; que financió el trabajo inicial que condujo a la creación del Proyecto Jupyter. <sup id="cite_ref-21" class="reference separada"><a href="#cite_note-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>En 2015, el Proyecto Jupyter recibió una subvención conjunta de 6 millones de dólares de la <a href="/wiki/Fundaci%C3%B3n_ben%C3%A9fica_de_Leona_M._y_Harry_B._Helmsley" title="Fundación benéfica de Leona M. y Harry B. Helmsley">Fundación benéfica de Leona M. y Harry B. Helmsley</a>, <a href="/w/index.php?title=Fundaci%C3%B3n_Gordon_y_Betty_Moore&amp;action=edit&amp;redlink=1" class="new" title="Fundación Gordon y Betty Moore (aún no redactado)">Fundación Gordon y Betty Moore</a>, y de <a href="/wiki/Fundaci%C3%B3n_Alfred_P._Sloan" title="Fundación Alfred P. Sloan">Fundación Alfred P. Sloan</a>, que financió el trabajo que condujo a ampliar las capacidades de las herramientas centrales de Jupyter, así como a la creación de JupyterLab.<sup id="cite_ref-22" class="reference separada"><a href="#cite_note-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>El 2 de mayo de 2018, el comité directivo del Proyecto Jupyter recibió el <a href="/w/index.php?title=ACM_Software_System_Award&amp;action=edit&amp;redlink=1" class="new" title="ACM Software System Award (aún no redactado)">ACM Software System Award</a> 2017, un premio anual que honra a las personas u organizaciones "por desarrollar un sistema de software que ha tenido una influencia duradera, reflejado en contribuciones a conceptos, en aceptación comercial, o ambos".<sup id="cite_ref-acmaward_23-0" class="reference separada"><a href="#cite_note-acmaward-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=11" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Archivo:Heckert_GNU_white.svg" class="image" title="Ver el portal sobre Software libre"><img alt="Ver el portal sobre Software libre" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/20px-Heckert_GNU_white.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/30px-Heckert_GNU_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/40px-Heckert_GNU_white.svg.png 2x" data-file-width="535" data-file-height="523" /></a> <a href="/wiki/Portal:Software_libre" title="Portal:Software libre">Portal:Software libre</a>. Contenido relacionado con <b><a href="/wiki/Software_libre" title="Software libre">Software libre</a></b>.</li>
+<li><a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a></li>
+<li><a href="/wiki/IPython" title="IPython">IPython</a></li>
+<li><a href="/wiki/RStudio" title="RStudio">RStudio</a></li>
+<li><a href="/wiki/SageMath" title="SageMath">SageMath</a></li>
+<li><a href="/wiki/Scilab" title="Scilab">Scilab</a></li>
+<li><a href="/wiki/Mathematica" title="Mathematica">Mathematica</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=12" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-About_Us-1"><span class="mw-cite-backlink"><a href="#cite_ref-About_Us_1-0">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://jupyter.org/about">«Project Jupyter - About Us»</a>. 20 de abril de 2018<span class="reference-accessdate">. Consultado el 3 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=Project+Jupyter+-+About+Us&amp;rft.date=20+de+abril+de+2018&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fjupyter.org%2Fabout&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://speakerdeck.com/fperez/project-jupyter">«Project Jupyter // Speaker Deck»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=Project+Jupyter+%2F%2F+Speaker+Deck&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fspeakerdeck.com%2Ffperez%2Fproject-jupyter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://github.com/ipython/ipython">«The Notebook, Qt console and a number of other pieces are now parts of Jupyter»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=The+Notebook%2C+Qt+console+and+a+number+of+other+pieces+are+now+parts+of+Jupyter&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fgithub.com%2Fipython%2Fipython&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.jupyter.org/the-big-split-9d7b88a031a7">«The Big Split™»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=The+Big+Split%E2%84%A2&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fblog.jupyter.org%2Fthe-big-split-9d7b88a031a7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://jupyter.org/">«Project Jupyter &#124; Home»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=Project+Jupyter+%26%23124%3B+Home&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fjupyter.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span id="CITAREFsshirokov7_de_mayo_de_2015" class="citation noticia">sshirokov (7 de mayo de 2015). <a rel="nofollow" class="external text" href="https://blog.github.com/2015-05-07-github-jupyter-notebooks-3/">«GitHub + Jupyter Notebooks = &lt;3»</a>. <i>The GitHub Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 10 de abril de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=GitHub+%2B+Jupyter+Notebooks+%3D+%3C3&amp;rft.au=sshirokov&amp;rft.aulast=sshirokov&amp;rft.date=7+de+mayo+de+2015&amp;rft.genre=article&amp;rft.jtitle=The+GitHub+Blog&amp;rft_id=https%3A%2F%2Fblog.github.com%2F2015-05-07-github-jupyter-notebooks-3%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.jupyter.org/rendering-notebooks-on-github-f7ac8736d686">«Rendering Notebooks on GitHub – Jupyter Blog»</a>. <i>Jupyter Blog</i>. 7 de mayo de 2015<span class="reference-accessdate">. Consultado el 10 de abril de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Rendering+Notebooks+on+GitHub+%E2%80%93+Jupyter+Blog&amp;rft.date=7+de+mayo+de+2015&amp;rft.genre=article&amp;rft.jtitle=Jupyter+Blog&amp;rft_id=https%3A%2F%2Fblog.jupyter.org%2Frendering-notebooks-on-github-f7ac8736d686&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-releasenote23-8"><span class="mw-cite-backlink"><a href="#cite_ref-releasenote23_8-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://ipython.org/ipython-doc/stable/whatsnew/github-stats-2.0.html">«What's new in IPython &gt; Issues closed in the 2.x development cycle»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=What%27s+new+in+IPython+%3E+Issues+closed+in+the+2.x+development+cycle&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fipython.org%2Fipython-doc%2Fstable%2Fwhatsnew%2Fgithub-stats-2.0.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-releasenote20-9"><span class="mw-cite-backlink"><a href="#cite_ref-releasenote20_9-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://ipython.org/ipython-doc/stable/whatsnew/version2.0.html">«What's new in IPython &gt; 2.0 Series»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=What%27s+new+in+IPython+%3E+2.0+Series&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fipython.org%2Fipython-doc%2Fstable%2Fwhatsnew%2Fversion2.0.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://github.com/jupyter/jupyter/wiki/Jupyter-kernels">«Jupyter kernels &gt; List of (some) IPython compatible kernels»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=Jupyter+kernels+%3E+List+of+%28some%29+IPython+compatible+kernels&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fgithub.com%2Fjupyter%2Fjupyter%2Fwiki%2FJupyter-kernels&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-releasenote012-11"><span class="mw-cite-backlink"><a href="#cite_ref-releasenote012_11-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://ipython.org/ipython-doc/dev/whatsnew/version0.12.html#an-interactive-browser-based-notebook-with-rich-media-support">«Notebook's announcement- 0.12 release note»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.btitle=Notebook%27s+announcement-+0.12+release+note&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fipython.org%2Fipython-doc%2Fdev%2Fwhatsnew%2Fversion0.12.html%23an-interactive-browser-based-notebook-with-rich-media-support&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Somers2018-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Somers2018_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Somers2018_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Somers2018_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFSomers" class="citation noticia">Somers, James. <a rel="nofollow" class="external text" href="https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/">«The Scientific Paper Is Obsolete»</a>. <i>The Atlantic</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 10 de abril de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=The+Scientific+Paper+Is+Obsolete&amp;rft.au=Somers%2C+James&amp;rft.aufirst=James&amp;rft.aulast=Somers&amp;rft.genre=article&amp;rft.jtitle=The+Atlantic&amp;rft_id=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2018%2F04%2Fthe-scientific-paper-is-obsolete%2F556676%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://jupyter.org/hub">https://jupyter.org/hub</a></span>
+</li>
+<li id="cite_note-:0-14"><span class="mw-cite-backlink"><a href="#cite_ref-:0_14-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190103055841/https://jupyo.com/">«Jupyo | Jupyter notebooks for Python, R, Julia in the cloud»</a>. <i>jupyo.com</i>. Archivado desde <a rel="nofollow" class="external text" href="https://jupyo.com/">el original</a> el 3 de enero de 2019<span class="reference-accessdate">. Consultado el 3 de enero de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Jupyo+%7C+Jupyter+notebooks+for+Python%2C+R%2C+Julia+in+the+cloud&amp;rft.genre=article&amp;rft.jtitle=jupyo.com&amp;rft_id=https%3A%2F%2Fjupyo.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906">«JupyterLab is Ready for Users – Jupyter Blog»</a>. <i>Jupyter Blog</i>. 20 de febrero de 2018<span class="reference-accessdate">. Consultado el 4 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=JupyterLab+is+Ready+for+Users+%E2%80%93+Jupyter+Blog&amp;rft.date=20+de+febrero+de+2018&amp;rft.genre=article&amp;rft.jtitle=Jupyter+Blog&amp;rft_id=https%3A%2F%2Fblog.jupyter.org%2Fjupyterlab-is-ready-for-users-5a6f039b8906&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://notebooks.azure.com/">«Microsoft Azure Notebooks - Online Jupyter Notebooks»</a>. <i>notebooks.azure.com</i><span class="reference-accessdate">. Consultado el 9 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Microsoft+Azure+Notebooks+-+Online+Jupyter+Notebooks&amp;rft.genre=article&amp;rft.jtitle=notebooks.azure.com&amp;rft_id=https%3A%2F%2Fnotebooks.azure.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://losc.ligo.org/events/GW150914/">«LIGO Open Science Center»</a>. <i>losc.ligo.org</i> <span style="color:#555;">(en inglés)</span><span class="reference-accessdate">. Consultado el 4 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=LIGO+Open+Science+Center&amp;rft.genre=article&amp;rft.jtitle=losc.ligo.org&amp;rft_id=https%3A%2F%2Flosc.ligo.org%2Fevents%2FGW150914%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/">«Jupyter, Mathematica, and the Future of the Research Paper – Paul Romer»</a>. <i>paulromer.net</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 15 de abril de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Jupyter%2C+Mathematica%2C+and+the+Future+of+the+Research+Paper+%E2%80%93+Paul+Romer&amp;rft.genre=article&amp;rft.jtitle=paulromer.net&amp;rft_id=https%3A%2F%2Fpaulromer.net%2Fjupyter-mathematica-and-the-future-of-the-research-paper%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://ipython.org/sloan-grant.html">«Sloan Foundation Grant — IPython»</a>. <i>ipython.org</i><span class="reference-accessdate">. Consultado el 3 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Sloan+Foundation+Grant+%E2%80%94+IPython&amp;rft.genre=article&amp;rft.jtitle=ipython.org&amp;rft_id=https%3A%2F%2Fipython.org%2Fsloan-grant.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://ipython.org/_static/sloangrant/sloan-grant.html">«An Open Source Framework for Interactive, Collaborative and Reproducible Scientific Computing and EducationOpen Source Tools for Interactive, Collaborative and Reproducible Computing»</a>. <i>ipython.org</i><span class="reference-accessdate">. Consultado el 3 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=An+Open+Source+Framework+for+Interactive%2C+Collaborative+and+Reproducible+Scientific+Computing+and+EducationOpen+Source+Tools+for+Interactive%2C+Collaborative+and+Reproducible+Computing&amp;rft.genre=article&amp;rft.jtitle=ipython.org&amp;rft_id=https%3A%2F%2Fipython.org%2F_static%2Fsloangrant%2Fsloan-grant.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span id="CITAREFPerez28_de_diciembre_de_2015" class="citation web">Perez, Fernando (28 de diciembre de 2015). <a rel="nofollow" class="external text" href="http://archive.ipython.org/sloan-2013-reports/IPython%202015%20Final%20Report%20-%20Sloan%20Foundation.pdf">«IPython 2015 Final Report - Sloan Foundation»</a>. <i>ipython.org</i><span class="reference-accessdate">. Consultado el 3 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=IPython+2015+Final+Report+-+Sloan+Foundation&amp;rft.au=Perez%2C+Fernando&amp;rft.aufirst=Fernando&amp;rft.aulast=Perez&amp;rft.date=28+de+diciembre+de+2015&amp;rft.genre=article&amp;rft.jtitle=ipython.org&amp;rft_id=http%3A%2F%2Farchive.ipython.org%2Fsloan-2013-reports%2FIPython%25202015%2520Final%2520Report%2520-%2520Sloan%2520Foundation.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://helmsleytrust.org/news/uc-berkeley-and-cal-poly-expand-and-enhance-open-source-software-scientific-computing-and-data">«UC Berkeley and Cal Poly to Expand and Enhance Open-Source Software for Scientific Computing and Data Science | Helmsley Charitable Trust»</a>. <i>helmsleytrust.org</i> <span style="color:#555;">(en inglés)</span><span class="reference-accessdate">. Consultado el 3 de mayo de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=UC+Berkeley+and+Cal+Poly+to+Expand+and+Enhance+Open-Source+Software+for+Scientific+Computing+and+Data+Science+%7C+Helmsley+Charitable+Trust&amp;rft.genre=article&amp;rft.jtitle=helmsleytrust.org&amp;rft_id=https%3A%2F%2Fhelmsleytrust.org%2Fnews%2Fuc-berkeley-and-cal-poly-expand-and-enhance-open-source-software-scientific-computing-and-data&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-acmaward-23"><span class="mw-cite-backlink"><a href="#cite_ref-acmaward_23-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://awards.acm.org/software_system/year.cfm">«Software System Award»</a>. <i>ACM Awards</i>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a><span class="reference-accessdate">. Consultado el 28 de abril de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecto+Jupyter&amp;rft.atitle=Software+System+Award&amp;rft.genre=article&amp;rft.jtitle=ACM+Awards&amp;rft.pub=Association+for+Computing+Machinery&amp;rft_id=http%3A%2F%2Fawards.acm.org%2Fsoftware_system%2Fyear.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> }}</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit&amp;section=13" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li class="mw-empty-elt"></li>
+<li><a rel="nofollow" class="external text" href="https://jupyter.org/">Página web oficial</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/jupyter/jupyter/wiki/Jupyter-kernels">Jupyter kernels</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q55630549" class="extiw" title="wikidata:Q55630549">Q55630549</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><a href="https://commons.wikimedia.org/wiki/Category:Project_Jupyter" class="extiw" title="c:Category:Project Jupyter">Category:Project Jupyter</a></span></li></ul>
+<hr />
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q55630549" class="extiw" title="wikidata:Q55630549">Q55630549</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><a href="https://commons.wikimedia.org/wiki/Category:Project_Jupyter" class="extiw" title="c:Category:Project Jupyter">Category:Project Jupyter</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20210512110520
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.772 seconds
+Real time usage: 0.904 seconds
+Preprocessor visited node count: 8785/1000000
+Post‐expand include size: 39847/2097152 bytes
+Template argument size: 1384/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 26026/5000000 bytes
+Lua time usage: 0.453/10.000 seconds
+Lua memory usage: 4750912/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  826.084      1 -total
+ 63.87%  527.658      1 Plantilla:Infobox_organization
+ 60.69%  501.310      1 Plantilla:Ficha
+ 52.97%  437.613     49 Plantilla:Propiedad
+ 16.56%  136.804      1 Plantilla:Listaref
+ 10.33%   85.294      1 Plantilla:Control_de_autoridades
+  7.34%   60.597      5 Plantilla:Cite_news
+  6.01%   49.644     17 Plantilla:Cite_web
+  4.86%   40.143      1 Plantilla:Portal
+  4.25%   35.074      2 Plantilla:PortalIconos
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:9238737-0!canonical and timestamp 20210512110519 and revision id 134913158. Serialized with JSON.
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Proyecto_Jupyter&amp;oldid=134913158">https://es.wikipedia.org/w/index.php?title=Proyecto_Jupyter&amp;oldid=134913158</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Organizaciones_de_software_libre" title="Categoría:Organizaciones de software libre">Organizaciones de software libre</a></li><li><a href="/wiki/Categor%C3%ADa:Organizaciones_fundadas_en_2015" title="Categoría:Organizaciones fundadas en 2015">Organizaciones fundadas en 2015</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_por_trasladar_a_Wikidata" title="Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata">Wikipedia:Artículos con datos por trasladar a Wikidata</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_sin_coordenadas" title="Categoría:Wikipedia:Artículos sin coordenadas">Wikipedia:Artículos sin coordenadas</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegación</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Herramientas personales</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">No has accedido</li><li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Proyecto+Jupyter" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Proyecto+Jupyter" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Espacios de nombres</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Proyecto_Jupyter" title="Ver la página de contenido [c]" accesskey="c">Artículo</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Proyecto_Jupyter" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variantes</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Vistas</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Proyecto_Jupyter">Leer</a></li><li id="ca-edit"><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history"><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Más</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Especial:Buscar"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"
+			title="Visitar la página principal"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navegación</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Herramientas</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Proyecto_Jupyter" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Proyecto_Jupyter" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Proyecto_Jupyter&amp;oldid=134913158" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Proyecto_Jupyter&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Proyecto_Jupyter&amp;id=134913158&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página">Citar esta página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55630549" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Imprimir/exportar</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Proyecto+Jupyter">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Proyecto_Jupyter&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Proyecto_Jupyter&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>En otros proyectos</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Project_Jupyter" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>En otros idiomas</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Jupyter" title="Jupyter (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Project_Jupyter" title="Project Jupyter (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Project_Jupyter" title="Project Jupyter (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%DA%98%D9%87_%DA%98%D9%88%D9%BE%DB%8C%D8%AA%D8%B1" title="پروژه ژوپیتر (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Jupyter" title="Jupyter (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Project_Jupyter" title="Project Jupyter (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%A3%BC%ED%94%BC%ED%84%B0" title="프로젝트 주피터 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Projeto_Jupyter" title="Projeto Jupyter (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Jupyter" title="Jupyter (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55630549#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 20 abr 2021 a las 14:46.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Proyecto_Jupyter&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.772","walltime":"0.904","ppvisitednodes":{"value":8785,"limit":1000000},"postexpandincludesize":{"value":39847,"limit":2097152},"templateargumentsize":{"value":1384,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":26026,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  826.084      1 -total"," 63.87%  527.658      1 Plantilla:Infobox_organization"," 60.69%  501.310      1 Plantilla:Ficha"," 52.97%  437.613     49 Plantilla:Propiedad"," 16.56%  136.804      1 Plantilla:Listaref"," 10.33%   85.294      1 Plantilla:Control_de_autoridades","  7.34%   60.597      5 Plantilla:Cite_news","  6.01%   49.644     17 Plantilla:Cite_web","  4.86%   40.143      1 Plantilla:Portal","  4.25%   35.074      2 Plantilla:PortalIconos"]},"scribunto":{"limitreport-timeusage":{"value":"0.453","limit":"10.000"},"limitreport-memusage":{"value":4750912,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20210512110520","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Proyecto Jupyter","url":"https:\/\/es.wikipedia.org\/wiki\/Proyecto_Jupyter","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55630549","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55630549","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-01-03T22:01:44Z","dateModified":"2021-04-20T14:46:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Jupyter_logo.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1370"});});</script>
+</body></html>

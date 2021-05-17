@@ -1,5 +1,69 @@
 html, body {
   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box !important;
+}
+
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  /* background-color: gray; */
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+hr {
+  margin: 0;
+  flex-grow: 1;
+  width: 100%;
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+
+a {
+  color: #e014b4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e014b4;
+  text-decoration: underline;
+}
+
+#header {
+  max-width: 800px;
+  min-height: 300px;
+  z-index: 100;
+}
+
+#avatar {
+  border: medium solid red;
+  border-width: 3px;
+  border-radius: 100px;
+  height: 196px;
+}
+
+#content {
+  max-width: 1170px;
+  min-height: 75vh;
+  /* background-color: red; */
+  z-index: 1;
+  line-height: 1.6;
+
 }
 
 .container {
@@ -10,12 +74,6 @@ html, body {
   flex-wrap: wrap;
 }
 
-#header {
-  max-width: 800px;
-  min-height: 300px;
-  z-index: 100;
-}
-
 .avatar {
   padding-right: 10px;
 }
@@ -24,30 +82,19 @@ html, body {
   padding-left: 10px;
 }
 
-#content {
-  max-width: 1170px;
-  min-height: 75vh;
-  /* background-color: red; */
-  z-index: 1;
-  font-size: 16px;
-  line-height: 1.6;
-
-}
-
-section {
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 15px;
-  padding-right: 15px;
-  /* background-color: gray; */
-}
-
 .timespan {
   line-height: 1.8;
 }
 
+.timespan-sub {
+  font-size: 14px;
+  color: gray;
+  margin-top: -5px;
+  margin-bottom: 0;
+}
+
 .timespan-industry {
-  color: #008acf;
+  color: #224CA1/* #008acf; */
 }
 
 .timespan-academia {
@@ -58,8 +105,153 @@ section {
   color: green;
 }
 
-li {
-  margin-bottom: 10px;
+.card-grid {
+  margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 2rem;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px 0 rgb(0 0 0 / 35%);
+  transition: box-shadow 0.2s ease-out;
+}
+
+.card:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.5);
+}
+
+.card.row {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  flex-direction: row;
+  min-height: 260px;
+}
+
+.card.col {
+  padding: 2.5rem 2rem;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card-clicker {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.card-img > img {
+  max-height: 200px;
+  max-width: 350px;
+}
+
+.card-avatar {
+  width: 128px;
+  height: 128px;
+  margin-bottom: 2rem;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+
+}
+
+.border-avatar {
+  border: medium solid black;
+  border-width: 1px;
+}
+
+.card-text {
+  padding: 0 1rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  /* align-items: center; */
+  /* flex-wrap: wrap; */
+}
+
+.card-text > p {
+  margin: 0;
+}
+
+.card-text > #title {
+  font-size: 20px;
+}
+
+.card-text > #authors {
+  font-size: 16px;
+}
+
+.card-text > #abstract {
+  font-size: 16px;
+  margin-top: 1em;
+  /* line-height: 1.2; */
+}
+
+.card.col > p {
+  margin: 0.5em 0;
+}
+
+.card.col > #title {
+  font-size: 20px;
+}
+
+.card.col > #abtract {
+  font-size: 16px;
+}
+
+.card.conference::before {
+  content: "conference paper";
+  background-color: #224CA1;
+  color: white;
+  /* height: 18px; */
+  display: block;
+  position: absolute;
+  top: -10px;
+  /* right: 7px; */
+  left: 7px;
+  font-size: 14px;
+  padding: 0.1em 0.3em;
+  border-radius: 5px;
+}
+
+.card.undergrad::before {
+  content: "undergrad thesis";
+  background-color: brown;
+  color: white;
+  /* height: 18px; */
+  display: block;
+  position: absolute;
+  top: -10px;
+  /* right: 7px; */
+  left: 7px;
+  font-size: 14px;
+  padding: 0.1em 0.3em;
+  border-radius: 5px;
+}
+
+.card.summer-school::before {
+  content: "summer school poster";
+  background-color: green;
+  color: white;
+  /* height: 18px; */
+  display: block;
+  position: absolute;
+  top: -10px;
+  /* right: 7px; */
+  left: 7px;
+  font-size: 14px;
+  padding: 0.1em 0.3em;
+  border-radius: 5px;
 }
 
 /* #header .container {
@@ -84,12 +276,7 @@ li {
   background: red;
 } */
 
-#avatar {
-  border: medium solid red;
-  border-width: 3px;
-  border-radius: 100px;
-  height: 196px;
-}
+
 
 /* hr {
   border: 1px solid red;
@@ -97,17 +284,6 @@ li {
   width: 100%;
 } */
 
-hr {
-  margin: 0;
-  flex-grow: 1;
-  width: 100%;
-  border: 0;
-  height: 1px;
-  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
-  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
-  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
-  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
-}
 
 #particles-js {
   width: 100%;
