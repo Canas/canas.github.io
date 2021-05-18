@@ -241,6 +241,7 @@ a:hover {
     padding-right: 1.5rem;
     flex-direction: column;
     min-height: 260px;
+    max-width: 95vw;
   }
 }
 
@@ -254,6 +255,12 @@ a:hover {
 .card-img > img {
   max-height: 200px;
   max-width: 350px;
+}
+@media (max-width:400px) {
+  .card-img > img {
+    max-height: 200px;
+    max-width: 75vw;
+  }
 }
 
 .card-avatar {
