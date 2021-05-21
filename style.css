@@ -369,6 +369,8 @@ canvas {
 }
 @media (max-width:400px) {
   canvas {
+    position: absolute;
     display: none;
+    max-height: 270px;
   }
 }
